@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f2ebfe, #f3eaff, #dac0ff);
+    height: 100vh;
+    background-size: cover;
+}
+
+.clock-image {
+    height: 50px;
+    width: 50px;
+}
+
+.timer {
+    font-size: 45px;
+}
+
+.main-heading {
+    color: #690cb0;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.text-container {
+    background-color: #f3eaff;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+}
+
+.input-text {
+    border-radius: 10px;
+    border-color: #9aa5b1;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    border-radius: 5px;
+    color: white;
+    border-style: none;
+    padding: 5px;
+    width: 80px;
+}
+
+.reset-button {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-color: #9aa5b1;
+    color: #323f4b;
+    border-style: solid;
+    padding: 5px;
+    width: 80px;
+}
